@@ -1,3 +1,3 @@
 # listasConObjetos
 
-Subo la lista normal acabada
+Subo ya las dos listas terminadas
